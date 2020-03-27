@@ -31,6 +31,9 @@ coverage
 # Bower dependency directory (https://bower.io/)
 bower_components
 
+# sql liste file
+*.sqlite 
+
 # node-waf configuration
 .lock-wscript
 
@@ -113,3 +116,4 @@ dist
 .yarn/unplugged
 .yarn/build-state.yml
 .pnp.*
+
